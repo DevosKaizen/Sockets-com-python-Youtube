@@ -38,3 +38,4 @@ def iniciar():
     thread2.start()
 
 iniciar()
+
