@@ -62,7 +62,7 @@ def handle_clientes(conn, addr):
 
 
 def start():
-    print("[INICIANDO] Iniciando Socket")
+    print("[INICIANDO] Sockets com python")
     server.listen()
     while(True):
         conn, addr = server.accept()
