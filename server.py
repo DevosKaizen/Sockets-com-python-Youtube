@@ -2,7 +2,7 @@ import socket
 import threading
 import time
 
-SERVER_IP = "127.0.0.1"
+SERVER_IP = "10.230.141.60"
 PORT = 5050
 ADDR = (SERVER_IP, PORT)
 FORMATO = 'utf-8'
